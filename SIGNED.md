@@ -2,3 +2,6 @@
 and three sample prompts in my process_log.md. I will not have another human do my work. I will
 defend my own code in the Live Defense session. I understand undeclared LLM or human assistance is
 grounds for disqualification.”
+
+
+Joel Njabo Tchapnda
