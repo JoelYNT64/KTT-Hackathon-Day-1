@@ -49,8 +49,7 @@ Project Structure
 ├── printable/
 └── README.md
 How to Run
-pip install -r requirements.txt
-streamlit run dashboard.py
+
 Current Status
 
 Due to limited time during the hackathon, the project could not be fully completed to the intended final production standard. Core functionality and concept validation were achieved, but several planned enhancements remain unfinished.
